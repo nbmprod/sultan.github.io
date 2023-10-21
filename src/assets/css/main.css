@@ -13,7 +13,7 @@
   --grey: #4b4b4b;
   --grey-2: #353535;
   --pale-blue:#c4cbda;
-  --beige:#dad3c4;
+  --beige:#ffffff;
   --black:#252525;
   --pinky:#a7f9f5;
   --error: #dab0b0;
@@ -21,7 +21,7 @@
 }
 
 * {
-  font-family: "Raleway", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 html, body {
